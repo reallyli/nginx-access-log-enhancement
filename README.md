@@ -1,4 +1,4 @@
-<h1 align="center"> :ocean: Laravel docker-compose </h1>
+<h1 align="center"> :ocean: Nginx access log enhancement </h1>
 <p align="center"> :zap: More detailed write nginx access logs.</p>
 
 ## Configuration
